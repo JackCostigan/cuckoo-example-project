@@ -1,0 +1,15 @@
+{
+  "commitish" : "1.1.1",
+  "iOS" : [
+    {
+      "name" : "Cuckoo",
+      "hash" : "6acd60a2b23061d4ea760df871453f11205c7da669e2321ff0203b0210eac7c8",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    },
+    {
+      "name" : "Cuckoo",
+      "hash" : "6acd60a2b23061d4ea760df871453f11205c7da669e2321ff0203b0210eac7c8",
+      "swiftToolchainVersion" : "5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+    }
+  ]
+}
